@@ -1,7 +1,7 @@
-GET http://localhost:8080/api/3
-Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MjY1NjkxNTksImlhdCI6MTYyNjUyNTk1OSwidXNlcl9pZCI6MX0.jA0kEB1WEwXnSAaUsifz9f7DYegYjkhImwDyjywJej0
+PUT http://localhost:8080/api/lists/1
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MjY4NDk3OTQsImlhdCI6MTYyNjgwNjU5NCwidXNlcl9pZCI6MX0.edTzltn-jPfI7JBil2akMbQDqUXTLj6wwQ3x8N0ZVOM
 
 {
-"title": "Список дел",
+"title": "список дел",
 "description": "нужно сделать"
 }
